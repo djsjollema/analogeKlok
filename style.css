@@ -1,0 +1,10 @@
+#canvas{
+	background-color: lightblue;
+	border:1px solid #000;
+	display:block;
+	margin:auto;
+}
+
+h1{
+	text-align:center;
+}
